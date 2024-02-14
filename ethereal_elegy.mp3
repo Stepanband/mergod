@@ -1,0 +1,1 @@
+distance = calculate_distance(star1, star2)
